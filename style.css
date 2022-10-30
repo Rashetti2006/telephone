@@ -1,0 +1,80 @@
+.img   {
+    size: 200px;
+
+}
+.title {
+    font-size: 25px;
+    word-spacing: 58px;
+    margin-left: 58px;
+    margin-top: 2px;
+    font-family:Arial, Helvetica, sans-serif;
+    }
+    .table {
+        margin: 5px;
+        background: rgb(255, 255, 255);
+        border-radius: 10px;
+        border-left: 8px solid rgb(23, 29, 110);
+        
+    }
+    .table h2 {
+        margin-left: 0px;
+        margin: 2px;
+        margin-right: 0px;
+        color: rgb(54, 47, 47);
+        border: 5px solid rgb(23, 29, 110);
+        border-radius: 10px;
+    }
+    .table h3 {
+        border: 5px solid rgb(23, 29, 110);
+        margin: 5px;
+        border-radius: 10px;
+    }
+    .speci {
+        border-left: 8px solid rgb(23, 29, 110);
+        border-radius: 5px;
+        background-color: rgb(240, 240, 240);
+        margin-top: 20px;
+        width: 100%;
+        
+
+    }
+    .speci td {
+        color: rgb(0, 0, 0);
+    }
+    .speci ol {
+        background-color: rgb(246, 246, 246);
+    }
+    .opisanie {
+        border-left: 8px solid rgb(23, 29, 110);
+        border-radius: 5px;
+        font-size:medium;
+        font-style: normal;
+        word-spacing: normal;
+    }
+    .opisanie p {
+        margin-left: 10px;
+    }
+    .linia {
+        width: 100%;
+        background-color: rgb(49, 29, 138);
+        height: 1px;
+        
+    }
+    .knopka {
+        width: 100px;
+        height: 50px;
+        border: 1px solid black;
+        background-color: orange;
+        color: white;
+        font-size: large;
+        border-radius: 15px;
+    }
+    .prise p {
+        font-size: 30px;
+        margin-right: 20px;
+        border-bottom: 1px solid black;
+    }
+    .zagolovok {
+        margin-left: 30px;
+        font-size: 20px;
+        }
